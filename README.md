@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemodolo&layout=compact&theme=dark)
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3amt5MWNncGh1YWdhaWN5M2theHFyMWZ2OHE2dTh0bGFnYmtzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3amt5MWNncGh1YWdhaWN5M2theHFyMWZ2OHE2dTh0bGFnYmtzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="400"/>
 <p align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" width="40"/>
