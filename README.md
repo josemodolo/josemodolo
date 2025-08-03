@@ -4,3 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemodolo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemodolo&layout=compact&theme=dark)
+
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png
