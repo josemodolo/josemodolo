@@ -5,6 +5,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemodolo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemodolo&layout=compact&theme=dark)
 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHF0Z2tuaWQ1ZDM3ODV2OXRqdTE1Z2Vsb29lN2VncTMyenI0ZDcwaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif />
+
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" width="40"/>
