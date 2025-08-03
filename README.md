@@ -2,11 +2,10 @@
 
 <p>My name is Jose Modolo, I am a Systems Analysis and Development student with a focus on JavaScript, React, Java, Springboot, Docker, MongoDB, PostgreSQL.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemodolo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemodolo&layout=compact&theme=dark)
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=josemodolo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemodolo&layout=compact&theme=dark)
+
 
 
 <p align="left">
